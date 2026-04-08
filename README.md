@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nayan Soni.</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently working on **React.js, Node.js**
 
 - 💬 Ask me about **React, MERN Stack**
 
