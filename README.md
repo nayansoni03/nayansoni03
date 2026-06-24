@@ -1,24 +1,142 @@
-<h1 align="center">Hello 👋, I'm Nayan Soni.</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Nayan</h1>
 
-- 🌱 I’m currently working on **React.js, Node.js**
+<h3 align="center">
+Full Stack Developer focused on scalable backend systems, APIs, and production-grade web applications.
+</h3>
 
-- 💬 Ask me about **React, MERN Stack**
+---
 
-- 📫 How to reach me **nayansoni2803@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1TXs_FTN5rQ2iVqtdtUQpQeio8INmE6UnEbVqctmIZSw/edit?usp=drive_link
+- 💼 Full Stack Developer
+- ⚡ 1 year of hands-on experience
+- 🔧 Building scalable backend systems using **Node.js, Express.js, MySQL**
+- 🌐 Strong frontend experience with **React.js**
+- 📦 Experience with API integrations
 
-- ⚡ Fun fact **I won a Gold Medal in "Best out of waste" competition and I love playing VALORANT for leisure and relaxation.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nayan-soni-28k3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-soni" height="30" width="40" /></a>
-<a href="https://instagram.com/nxnsoniii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan_soni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/Pervysage420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayan" height="30" width="40" /></a>
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python" />
+</p>
+
+---
+
+<!-- ## 💼 Experience
+
+### Full Stack Developer — Studio137 Digital Media Solutions
+**Aug 2025 – Present**
+
+- Developed scalable REST APIs and backend modules
+- Built Salesforce integrations and automation workflows
+- Improved backend processing efficiency for large datasets
+- Automated production PDF generation systems using Puppeteer
+
+### Frontend Web Developer
+**Dec 2024 – Aug 2025**
+
+- Built responsive applications using React.js & Next.js
+- Optimized rendering logic reducing PDF generation time by ~70%
+- Worked on multiple live client projects
+
+--- -->
+
+## 📌 Featured Projects
+
+### 🔹 Litigation Analytics System
+
+AI-powered legal analytics platform with:
+- Case prediction model
+- Case duration estimation
+- Legal guidance assistant
+
+### 🔹 WhatsApp Chat Analysis Tool
+
+- Chat analytics dashboard
+- Heatmaps & word cloud visualization
+- Trend analysis using Python & Streamlit
+
+### 🔹 Doormonk – Gallery Booking Platform
+
+- Full-stack booking platform
+- JWT authentication
+- Booking workflows & secure APIs
+
+---
+
+<!-- ## 🏆 Achievements
+
+- 🚀 2 promotions and 3 salary hikes within 1.5 years
+- 🧠 Qualified JEE Advanced (OBC Rank: 7712)
+- 🥈 Silver Medal in Drawing Competition
+
+--- -->
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nayan-soni-28k3/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:nayansoni2803@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/nayansoni03" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusharman&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharman&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+--- -->
+
+## ⚡ Current Focus
+
+- Backend architecture
+- System design
+- API performance optimization
+- Scalable web applications
+- Product engineering
+:::
+
+Also your left-side bio still looks old in the screenshot.
+
+Update GitHub profile bio to:
+
+```txt id="zc48um"
+Full Stack Developer | React.js • Node.js • MySQL | Backend Systems & Production Applications
 
 
