@@ -129,8 +129,8 @@ AI-powered legal analytics platform with:
 - System design
 - API performance optimization
 - Scalable web applications
-- Product engineering
-:::
+<!-- - Product engineering
+::: -->
 
 Also your left-side bio still looks old in the screenshot.
 
