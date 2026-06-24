@@ -132,11 +132,6 @@ AI-powered legal analytics platform with:
 <!-- - Product engineering
 ::: -->
 
-Also your left-side bio still looks old in the screenshot.
 
-Update GitHub profile bio to:
-
-```txt id="zc48um"
-Full Stack Developer | React.js • Node.js • MySQL | Backend Systems & Production Applications
 
 
